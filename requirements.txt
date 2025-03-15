@@ -1,0 +1,1 @@
+"earthengine-api\nsentinelhub\nnumpy\npandas\nscikit-learn\nmatplotlib" 
